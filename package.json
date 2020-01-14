@@ -1,0 +1,24 @@
+{
+  "name": "dvd_alerte",
+  "version": "1.0.0",
+  "description": "PoC for DVD release alerting",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasF34/Dvd_alerte.git"
+  },
+  "author": "Thomas Falcone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasF34/Dvd_alerte/issues"
+  },
+  "homepage": "https://github.com/ThomasF34/Dvd_alerte#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "tmdb": "^2.5.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
