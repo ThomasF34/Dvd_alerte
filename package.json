@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ThomasF34/Dvd_alerte#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "tmdb": "^2.5.1",
     "xmlhttprequest": "^1.8.0"
   }
